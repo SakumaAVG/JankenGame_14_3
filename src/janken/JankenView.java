@@ -61,7 +61,7 @@ public class JankenView extends Application {
 
         cpuLabel = new Label("コンピュータの手:-");
         cpuLabel.setFont(font);
-        humanLabel = new Label("あなたの手:-");
+        humanLabel = new Label("お前の手:-");
         humanLabel.setFont(font);
         resultLabel = new Label("じゃんけん結果:-");
         resultLabel.setFont(font);
